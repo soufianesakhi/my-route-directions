@@ -12,4 +12,4 @@ Google AdMob is used to display small banner ads.
 
 This privacy policy is subject to change without notice.
 
-If you have any questions feel free to email route-planner@soufiane.eu.
+If you have any questions feel free to email my-route-directions@soufiane.eu.
